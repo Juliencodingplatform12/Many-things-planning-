@@ -1,0 +1,31 @@
+Part 1: Set Up GitHub Repository 
+Create a GitHub repository 
+Add a README.md:
+Write a breif description of the project:
+Draw 10+ shapes or vertices.
+Animate their properties (position, color, size).
+Use conditional logic (for example shapes bounce off walls).
+Commit the file.
+Part 2: Set Up the intro basic Code 
+Create a file called sketch.js.
+Paste in the basic p5.js setup from editor p5
+Commit this file.
+Step 3: Build the Program 
+First steps:
+
+Draw one shape (Square).
+Animate one property (e.g., make it move).
+Commit.
+Add More Shapes:
+
+Add more shapes until I have more than 10
+Commit.
+Add the Conditional Logic:
+
+Make shapes bounce off walls or change color when they reach a certain position.
+Commit.
+Finish Up:
+
+Test everything to make sure it works.
+If time allows make the code more challenging and add more shapes.
+
